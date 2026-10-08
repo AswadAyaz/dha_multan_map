@@ -1,0 +1,12 @@
+# Database files (will be created on server)
+database/*.sqlite
+
+# Uploads (will be uploaded separately)
+uploads/properties/*.jpg
+uploads/properties/*.png
+
+# Config with secrets
+.env
+
+# Generated tile ZIP archives
+/assets/tiles/*.zip

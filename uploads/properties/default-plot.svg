@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" fill="#f1f5f9" rx="12"/>
+  <rect x="30" y="30" width="140" height="140" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8,4" rx="8"/>
+  <polygon points="100,55 140,90 140,145 60,145 60,90" fill="none" stroke="#64748b" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="100" y1="55" x2="100" y2="145" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="60" y1="100" x2="140" y2="100" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4,4"/>
+  <text x="100" y="115" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#64748b">PLOT</text>
+  <text x="100" y="175" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#94a3b8">DHA Multan</text>
+</svg>

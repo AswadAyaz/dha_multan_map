@@ -1,0 +1,78 @@
+{
+    "parts": [
+        {
+            "id": 1,
+            "name": "Part 1",
+            "image_url": "/uploads/part1.png",
+            "bounds": {
+                "north": 30.351546261929034,
+                "south": 30.275375934291837,
+                "east": 71.63120269775392,
+                "west": 71.48803710937501
+            },
+            "opacity": 1,
+            "enabled": true,
+            "visible_public": true
+        },
+        {
+            "id": 2,
+            "name": "Part 2",
+            "image_url": "/uploads/part2.png",
+            "bounds": {
+                "north": 30.310504627796767,
+                "south": 30.25788100800988,
+                "east": 71.58210754394533,
+                "west": 71.48872375488283
+            },
+            "opacity": 1,
+            "enabled": true,
+            "visible_public": true
+        },
+        {
+            "id": 3,
+            "name": "Part 3",
+            "image_url": "/uploads/part3.png",
+            "bounds": {
+                "north": 30.310060039424812,
+                "south": 30.2620326285407,
+                "east": 71.60202026367189,
+                "west": 71.53301239013673
+            },
+            "opacity": 1,
+            "enabled": true,
+            "visible_public": true
+        },
+        {
+            "id": 4,
+            "name": "Part 4",
+            "image_url": "/uploads/part4.png",
+            "bounds": {
+                "north": 30.30605865332703,
+                "south": 30.252691235553538,
+                "east": 71.61489486694337,
+                "west": 71.54983520507814
+            },
+            "opacity": 1,
+            "enabled": true,
+            "visible_public": true
+        },
+        {
+            "id": 5,
+            "name": "Part 5",
+            "image_url": "/uploads/part5.png",
+            "bounds": {
+                "north": 30.341768949836005,
+                "south": 30.27863735539325,
+                "east": 71.62828445434572,
+                "west": 71.53747558593751
+            },
+            "opacity": 1,
+            "enabled": true,
+            "visible_public": true
+        }
+    ],
+    "opacity": 1,
+    "locked": true,
+    "enabled": true,
+    "visible_public": true
+}
